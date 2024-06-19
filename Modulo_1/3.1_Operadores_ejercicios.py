@@ -6,6 +6,7 @@ Escribir un programa que solicite dos números y luego imprima:
     4. El cubo de la suma de los dos numeros 
     5. El cociente de la división del primer número por el segundo
 """
+
 num1 = float(input("Ingrese el primer número: "))
 num2 = float(input("Ingrese el segundo número: "))
 
@@ -15,8 +16,8 @@ producto = num1*num2
 cubo = suma**3
 cociente = num1/num2
 
-print("Suma:", suma)
-print("Resta:", resta)
-print("Producto:", producto)
-print("Cubo", cubo)
-print("Cociente:", cociente)
+print("Suma: ", suma)
+print("Resta: ", resta)
+print("Producto: ", producto)
+print("Cubo: ", cubo)
+print("Cociente: ", cociente)
