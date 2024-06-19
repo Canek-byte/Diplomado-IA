@@ -1,4 +1,6 @@
 """
+Autor: Canek
+
 Escribir un programa que solicite dos números y luego imprima:
     1. La suma de los dos numeros
     2. La resta del primer número menos el segundo
